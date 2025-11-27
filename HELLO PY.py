@@ -4,3 +4,6 @@ def greet(name):
 
 name = input("Enter your name: ")
 print(greet(name))
+
+
+print("added new print lie for feature 1")
